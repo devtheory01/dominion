@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Dominion City Church Management",
+  "description": "A comprehensive church management system with member tracking, attendance, sermons, and bulk SMS integration.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
